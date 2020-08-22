@@ -6,4 +6,4 @@ Miembros del grupo:
 * Jorge Navarro Ordoñez
 * Bartolomé Zambrana Pérez.
 
-Calificación del caso práctico: 9 / 10.
+Calificación del caso práctico (realizado individualmente): 9 / 10.
